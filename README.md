@@ -1,5 +1,7 @@
 # 하이랄 두더지 잡기 🗡️
 
+🎮 플레이: https://test-alpha-nine-47.vercel.app/
+
 젤다의 전설 분위기의 두더지 잡기 게임. 순수 HTML / CSS / JavaScript (npm 불필요).
 
 ## 로컬 실행
